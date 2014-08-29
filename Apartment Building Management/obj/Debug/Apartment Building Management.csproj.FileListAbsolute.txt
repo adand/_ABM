@@ -1,0 +1,25 @@
+c:\users\adand\documents\visual studio 2013\Projects\Apartment Building Management\Apartment Building Management\bin\Debug\Apartment Building Management.exe.config
+c:\users\adand\documents\visual studio 2013\Projects\Apartment Building Management\Apartment Building Management\bin\Debug\Apartment Building Management.exe
+c:\users\adand\documents\visual studio 2013\Projects\Apartment Building Management\Apartment Building Management\bin\Debug\Apartment Building Management.pdb
+c:\users\adand\documents\visual studio 2013\Projects\Apartment Building Management\Apartment Building Management\obj\Debug\Apartment_Building_Management.Properties.Resources.resources
+c:\users\adand\documents\visual studio 2013\Projects\Apartment Building Management\Apartment Building Management\obj\Debug\Apartment Building Management.csproj.GenerateResource.Cache
+c:\users\adand\documents\visual studio 2013\Projects\Apartment Building Management\Apartment Building Management\obj\Debug\Apartment Building Management.exe
+c:\users\adand\documents\visual studio 2013\Projects\Apartment Building Management\Apartment Building Management\obj\Debug\Apartment Building Management.pdb
+c:\users\adand\documents\visual studio 2013\Projects\Apartment Building Management\Apartment Building Management\obj\Debug\Apartment_Building_Management.MainForm.resources
+c:\users\adand\documents\visual studio 2013\Projects\Apartment Building Management\Apartment Building Management\obj\Debug\Apartment Building Management.csprojResolveAssemblyReference.cache
+c:\users\adand\documents\visual studio 2013\Projects\Apartment Building Management\Apartment Building Management\obj\Debug\Apartment_Building_Management.UnfilteredForm.resources
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment Building Management\obj\Debug\Apartment_Building_Management.filteredFormBasedOnLocation.resources
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment Building Management\obj\Debug\Apartment_Building_Management.filteredFormBasedOnLocationAndTime.resources
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\bin\Debug\Apartment Building Management.exe.config
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\obj\Debug\Apartment Building Management.exe
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\obj\Debug\Apartment Building Management.pdb
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\bin\Debug\Apartment Building Management.exe
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\bin\Debug\Apartment Building Management.pdb
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\obj\Debug\Apartment Building Management.csprojResolveAssemblyReference.cache
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\obj\Debug\Apartment_Building_Management.filteredFormBasedOnLocation.resources
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\obj\Debug\Apartment_Building_Management.filteredFormBasedOnLocationAndTime.resources
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\obj\Debug\Apartment_Building_Management.MainForm.resources
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\obj\Debug\Apartment_Building_Management.Properties.Resources.resources
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\obj\Debug\Apartment_Building_Management.UnfilteredForm.resources
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\obj\Debug\Apartment Building Management.csproj.GenerateResource.Cache
+C:\Users\adand\Documents\Visual Studio 2013\Projects\Apartment Building Management\Apartment-Building-Management\Apartment Building Management\obj\Debug\Apartment_Building_Management.id_check.resources
